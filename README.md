@@ -88,14 +88,6 @@ class PavanMiskin:
 
 ---
 
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -103,19 +95,6 @@ class PavanMiskin:
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
 
 > 💡 **To enable the snake animation:** Create a GitHub Action in your profile repo at `.github/workflows/snake.yml` — see setup instructions below.
 
