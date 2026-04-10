@@ -1,47 +1,51 @@
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#00C2FF;">Pavan Miskin</span>
+  Hey 👋, I'm Pavan Miskin
 </h1>
 
 <h3 align="center">
-  🚀 Machine Learning Engineer | AI Builder | Web Developer
+  🚀 AI Engineer • ML Explorer • Builder of Real-World Projects
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems;Turning+ideas+into+products;Always+learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer;AI+%7C+Full+Stack+Developer;Building+Projects+That+Matter;Open+to+Opportunities+🚀" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```diff
-+ I don’t just learn tech — I build with it.
-```
-
-* 🤖 Focused on **Machine Learning & Deep Learning**
-* 🌐 Building **full-stack AI-powered applications**
-* ⚡ Interested in **real-world impact projects**
-* 📈 Currently leveling up in **System Design & Scalable AI**
+* 🎯 Focused on **AI + ML + Real-world problem solving**
+* 🛠️ Building **production-ready apps**, not just tutorials
+* 📚 Learning **System Design & Advanced Deep Learning**
+* ⚡ Goal: Become a **top-tier AI Engineer**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,js,docker,git,linux,pytorch,opencv,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,docker,git,linux,vscode,pytorch,opencv,html,css" />
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects (THIS MATTERS MOST)
 
-* 🧠 AI-powered applications (ML + Web integration)
-* 📊 Data-driven tools for real-world problems
-* 🎮 Exploring Game + AI combinations
+<p align="center">
+
+<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyan32&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -54,26 +58,18 @@
 
 ---
 
-## 🧩 Featured Projects (REAL PROOF)
+## 🧠 What I’m Working On
 
-<p align="center">
-
-<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+* 🤖 AI-powered applications
+* 📊 ML models with real datasets
+* 🌐 Full-stack apps (React + FastAPI)
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=onestar&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -86,28 +82,28 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Pavankalyan32">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="mailto:pavanmiskin72@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Pavankalyan32">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## ⚡ Mindset
-
-```bash
-> build > talk
-> consistency > motivation
-> execution > perfection
-```
-
----
+## ⚡ Fun Zone
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
