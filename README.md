@@ -1,221 +1,258 @@
-<!-- ████████████████████████████████████████ CINEMATIC HEADER ████████████████████████████████████████ -->
+<h1 align="center">
+  Hey 👋, I'm Pavan Miskin
+</h1>
 
-<div align="center">
+<h3 align="center">
+  🚀 AI Engineer • ML Explorer • Builder of Real-World Projects
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=PAVAN%20MISKIN&fontSize=82&fontColor=00f5ff&animation=fadeIn&fontAlignY=50&stroke=00f5ff&strokeWidth=1&desc=◈%20ML%20ENGINEER%20%20◈%20%20AI%20ARCHITECT%20%20◈%20%20FULL%20STACK%20DEV%20◈&descAlignY=72&descSize=15&descColor=ff0080" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer;AI+%7C+Full+Stack+Developer;Building+Projects+That+Matter;Open+to+Opportunities+🚀" />
+</p>
 
-<!-- Glitch Typing Line -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=▸+LOADING+NEURAL+INTERFACE...+█████████████+100%25;▸+INITIALIZING+BUILD+SEQUENCE...;▸+WELCOME+TO+THE+MATRIX,+STRANGER+◈;▸+ML+%2F+VISION+%2F+GENERATIVE+AI+%2F+FULLSTACK;▸+TURNING+RAW+DATA+INTO+INTELLIGENCE+⚡" alt="Typing" />
+---
 
-<br/>
+## 🧠 About Me
 
-<!-- Neon Social Badges -->
-<a href="https://linkedin.com/in/pavan-miskin-394161243">
-  <img src="https://img.shields.io/badge/─%20LINKEDIN%20─-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=000000" />
+* 🎯 Focused on **AI + ML + Real-world problem solving**
+* 🛠️ Building **production-ready apps**, not just tutorials
+* 📚 Learning **System Design & Advanced Deep Learning**
+* ⚡ Goal: Become a **top-tier AI Engineer**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,docker,git,linux,vscode,pytorch,opencv,html,css" />
+</p>
+
+---
+
+## 🚀 Featured Projects (THIS MATTERS MOST)
+
+<p align="center">
+
+<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
-&nbsp;
-<a href="https://github.com/Pavankalyan32">
-  <img src="https://img.shields.io/badge/─%20GITHUB%20─-181717?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=000000" />
+
+<a href="https://github.com/Pavankalyan32/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavankalyan32&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
-&nbsp;
-<a href="mailto:pavanmiskin72@gmail.com">
-  <img src="https://img.shields.io/badge/─%20MAIL%20─-EA4335?style=for-the-badge&logo=gmail&logoColor=ff0080&labelColor=000000" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Pavankalyan32&style=for-the-badge&color=00f5ff&label=SIGNAL+STRENGTH&labelColor=000000" />
 
-</div>
+</p>
 
-<br/>
+---
 
-<!-- ████████████████████████████████████████ BOOT SEQUENCE ████████████████████████████████████████ -->
+## 📊 GitHub Stats
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                     ◈  SYSTEM BOOT — IDENTITY PROTOCOL  ◈                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  > SUBJECT        ::  Pavan Miskin                                           ║
-║  > DESIGNATION    ::  ML Engineer · Full Stack Dev · AI Explorer             ║
-║  > ORIGIN         ::  India 🇮🇳                                               ║
-║  > PRIMARY STACK  ::  Python · PyTorch · FastAPI · React                     ║
-║  > THREAT LEVEL   ::  ███████████░  DANGEROUS                               ║
-║                                                                              ║
-║  > CORE MISSION   ::  Build AI systems that don't just predict —             ║
-║                        they understand.                                      ║
-║                                                                              ║
-║  > CURRENTLY      ::  Training models, shipping features, breaking prod 🔥   ║
-║  > OPEN TO        ::  Collabs · Open Source · Freelance · Full-time          ║
-║  > FUN FACT       ::  I use print() for debugging and I'd do it again        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyan32&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Pavankalyan32&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankalyan32&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<!-- ████████████████████████████████████████ SKILLS ████████████████████████████████████████ -->
+---
 
-<div align="center">
+## 🧠 What I’m Working On
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
+* 🤖 AI-powered applications
+* 📊 ML models with real datasets
+* 🌐 Full-stack apps (React + FastAPI)
 
-### `〔 NEURAL ARSENAL 〕`
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=ff0080&center=true&vCenter=true&width=500&height=30&lines=WEAPONS+OF+CHOICE+%2F%2F+TECH+STACK+%2F%2F+BUILD+TOOLS" />
+## 🏆 Achievements
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
 
-**⬡ Intelligence Layer**
+---
 
-![Python](https://img.shields.io/badge/PYTHON-000?style=flat-square&logo=python&logoColor=00f5ff&labelColor=0a0a0a)
-![PyTorch](https://img.shields.io/badge/PYTORCH-000?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0a0a0a)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0a)
-![scikit-learn](https://img.shields.io/badge/SKLEARN-000?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0a0a0a)
-![OpenCV](https://img.shields.io/badge/OPENCV-000?style=flat-square&logo=opencv&logoColor=5C3EE8&labelColor=0a0a0a)
-![HuggingFace](https://img.shields.io/badge/HF_TRANSFORMERS-000?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0a0a0a)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-000?style=flat-square&logo=chainlink&logoColor=00f5ff&labelColor=0a0a0a)
-![Jupyter](https://img.shields.io/badge/JUPYTER-000?style=flat-square&logo=jupyter&logoColor=F37626&labelColor=0a0a0a)
+## 🌐 Connect With Me
 
-**⬡ Interface Layer**
-
-![FastAPI](https://img.shields.io/badge/FASTAPI-000?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0a0a0a)
-![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0a0a0a)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0a0a0a)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0a0a0a)
-![REST](https://img.shields.io/badge/REST_API-000?style=flat-square&logo=json&logoColor=00f5ff&labelColor=0a0a0a)
-
-**⬡ Infrastructure Layer**
-
-![Docker](https://img.shields.io/badge/DOCKER-000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0a0a0a)
-![Git](https://img.shields.io/badge/GIT-000?style=flat-square&logo=git&logoColor=F05032&labelColor=0a0a0a)
-![Linux](https://img.shields.io/badge/LINUX-000?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0a0a0a)
-![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-000?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0a0a0a)
-![VS Code](https://img.shields.io/badge/VSCODE-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=0a0a0a)
-![Postman](https://img.shields.io/badge/POSTMAN-000?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0a0a0a)
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=ff9900&labelColor=0a0a0a)
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████ STATS ████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-
-### `〔 WAR ROOM STATS 〕`
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=ff0080&center=true&vCenter=true&width=500&height=30&lines=LIVE+FEED+%2F%2F+COMMIT+STREAM+%2F%2F+BATTLE+RECORD" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyan32&theme=highcontrast&hide_border=true&background=000000&stroke=00f5ff&ring=00f5ff&fire=ff0080&currStreakLabel=00f5ff&sideLabels=ffffff&dates=555555&currStreakNum=ff0080&sideNums=00f5ff" height="180" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavankalyan32&show_icons=true&theme=highcontrast&hide_border=true&bg_color=000000&title_color=00f5ff&icon_color=ff0080&text_color=ffffff" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankalyan32&layout=compact&theme=highcontrast&hide_border=true&bg_color=000000&title_color=00f5ff&text_color=ffffff&langs_count=8" height="180" />
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████ ACTIVITY GRAPH ████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-
-### `〔 ACTIVITY RADAR 〕`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavankalyan32&bg_color=000000&color=00f5ff&line=ff0080&point=ffd700&area=true&hide_border=true&area_color=0a0a2e&custom_title=COMMIT%20FREQUENCY%20%2F%2F%20LIVE%20UPLINK" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████ TROPHIES ████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-
-### `〔 ACHIEVEMENT VAULT 〕`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████ SNAKE ████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-
-### `〔 CONTRIBUTION GRID — CONSUME SEQUENCE 〕`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████ CONNECT ████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
-
-### `〔 OPEN CHANNEL 〕`
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1500&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=FREQUENCY+LOCKED+%2F%2F+SEND+YOUR+SIGNAL+%2F%2F+I+RESPOND+FAST" />
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   ◈  LINKEDIN   →   linkedin.com/in/pavan-miskin-394161243              │
-│   ◈  GITHUB     →   github.com/Pavankalyan32                            │
-│   ◈  EMAIL      →   pavanmiskin72@gmail.com                             │
-│                                                                         │
-│   "The best interfaces feel like magic.                                 │
-│    My job is to build the magic."  — Pavan                              │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
+<p align="center">
 
 <a href="https://linkedin.com/in/pavan-miskin-394161243">
-  <img src="https://img.shields.io/badge/─%20%20LINKEDIN%20%20─-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://github.com/Pavankalyan32">
-  <img src="https://img.shields.io/badge/─%20%20GITHUB%20%20─-181717?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=000000" />
-</a>
-&nbsp;
+
 <a href="mailto:pavanmiskin72@gmail.com">
-  <img src="https://img.shields.io/badge/─%20%20EMAIL%20%20─-EA4335?style=for-the-badge&logo=gmail&logoColor=ff0080&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pavankalyan32">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Miskin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=ML%20Engineer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20Dev&descAlignY=78&descSize=18&descColor=a78bfa" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Building+things+that+matter+%F0%9F%9A%80;Machine+Learning+%2B+Full+Stack+Dev+%F0%9F%A7%A0;Turning+coffee+into+models+%E2%98%95%EF%B8%8F%F0%9F%A4%96;Open+to+collabs+%26+cool+ideas+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<!-- Social Badges -->
+<br/>
+<a href="https://linkedin.com/in/pavan-miskin-394161243">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Pavankalyan32">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:pavanmiskin72@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Pavankalyan32">
+  <img src="https://komarev.com/ghpvc/?username=Pavankalyan32&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- ████████████████████████████████████████ FOOTER ████████████████████████████████████████ -->
+## 🧬 About Me
+
+```python
+class PavanMiskin:
+    def __init__(self):
+        self.name       = "Pavan Miskin"
+        self.role       = ["ML Engineer", "Full Stack Dev", "AI Explorer"]
+        self.location   = "India 🇮🇳"
+        self.languages  = ["Python", "JavaScript", "SQL"]
+        self.interests  = ["LLMs", "Computer Vision", "Generative AI", "Open Source"]
+        self.currently  = "Building AI-powered tools that solve real problems"
+        self.ask_me     = "Anything about ML pipelines, FastAPI, or React!"
+        self.fun_fact   = "I debug with print() and I'm not ashamed 😤"
+
+    def available_for(self):
+        return ["Collaborations", "Freelance", "Open Source", "Full-time Roles"]
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0a0a2e,70:0d0221,100:000000&height=140&section=footer&reversal=true&text=END%20TRANSMISSION&fontSize=26&fontColor=00f5ff&animation=fadeIn&fontAlignY=70&desc=◈%20%20%20%20◈%20%20%20%20◈&descColor=ff0080&descAlignY=88" />
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### 🌐 Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyan32&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyan32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankalyan32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="40%" />
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavankalyan32&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavankalyan32&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true&area_color=2d1b69" width="95%" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pavankalyan32/Pavankalyan32/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 **To enable the snake animation:** Create a GitHub Action in your profile repo at `.github/workflows/snake.yml` — see setup instructions below.
+
+---
+
+## 💡 A Quote I Live By
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [pavan-miskin-394161243](https://linkedin.com/in/pavan-miskin-394161243) |
+| 🐙 GitHub | [Pavankalyan32](https://github.com/Pavankalyan32) |
+| 📧 Email | [pavanmiskin72@gmail.com](mailto:pavanmiskin72@gmail.com) |
+
+<br/>
+
+**I'm always open to:** interesting problems, side projects, and conversations about AI/ML. Drop a message! 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&animation=fadeIn&fontAlignY=70" />
 </div>
